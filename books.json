@@ -1,1 +1,11 @@
-
+[
+  {
+    "id": "1",
+    "title": "A Short History of the World",
+    "author": "H.G. Wells",
+    "description": "Chapter 1: The World in Space",
+    "image_url": "YAHAN_BOOK_COVER_IMAGE_KA_RAW_LINK_DALEIN",
+    "book_url": "https://raw.githubusercontent.com/History-Hub9/History-Hub/refs/heads/main/Book/A%20short%20History%20of%20the%20world/Chapter1.html",
+    "category": "Books"
+  }
+]
